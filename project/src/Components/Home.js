@@ -15,7 +15,24 @@ const Home = () => {
         <>
         Welcome to Food World!
         <br></br>
-        dnffjg njdskfn sfnsbd sdvfnjbg bnsdbfd rgefbhg fbew bdefhbe vhuug       
+        <br></br>
+        Food is the basic need for humans to stay alive. According to Abraham Maslow’s Hierarchy of Needs, a motivational psychological theory, Food is an innate physiological need along with water, warmth, and rest. This tells the importance of Food in everyone’s lives. Food is the need of every living organism. Therefore, we mustn’t waste Food.
+
+In line with this, the human body needs a variety of the following five nutrients – protein, carbohydrate, fat, vitamins, and minerals – which comes from the Food we eat to stay healthy, active, and productive. Firstly, protein is required to build, maintain, and restore blood, muscle, bones, and skin, and organs in the body. Healthy food habits keep you healthy and keep you away from diseases. Avoid eating junk food since it affects your health, and it has few of the nutrients your body needs, and a lot of fat, sugar, and salt, which your body can easily get too much of.
+
+Children can be trained to eat nutritious meals as well as getting plenty of exercises and adequate sleep every day. These positive health habits will help children grow strong and stay healthy, interact well with others, and lessen the tendencies that they will become overweight or obese.
+
+Thus, all the dishes have different tastes. Everything is available from fruits to vegetables, from Dairy food to seafood. Different countries have their speciality of dishes. Therefore, some of them are below:
+
+World-famous Cuisines are:
+
+Italian Cuisines – Italian cuisines are one of the most popular cuisines around the world. Moreover, it is widely available in India too. Dishes like pizza, pasta, and lasagna are favourite dishes of many people, and people like them a lot. Besides, cafés like Dominos and Pizza cabin are accessible everywhere on the nation. Each dish is load with cheddar, which upgrades the flavour of these Italian dishes. Indian cuisine –Whether veg or non-veg the dishes are in curry form. Moreover, Indian cuisine has so many types of Food that further contain different branches. Also, almost every Indian loves Muglia dishes.
+
+Chinese Cuisine – Chinese cuisine is also very popular in India. There are many Chinese theme-based restaurants here. Besides, in these cafés, Chinese are the best gourmet specialists since they can just give the ideal Chinese mix. Chinese cuisines have a wide variety of dishes.
+
+Some Chinese cuisines are Chinese noodles, Dumplings, fried rice, etc. Dumplings have a different name here. These cuisines are some of the favourites of people in India. Moreover, these are available in most parts of the city. You can find it in any place, whether be it in five-star restaurants or at the side of the street as street foods.
+
+There are such various cooking styles and food inclinations worked by social and ethnic foundations, topographical areas, and social classes. India is a place that is known for flavours, Africa is a mainland of sauces, Europe reveals esthetical excellence of Food and opens up new chances and innovations for the individuals who esteem and appreciate eating.       
         </>
     </center>
     </center>

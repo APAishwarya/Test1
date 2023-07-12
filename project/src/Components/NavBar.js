@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom'
 const NavBar = () => {
   return (
     <>
-        <nav className='navbar navbar-expand-lg bg-info-subtle navbar-dark'>
+        <nav className='navbar navbar-expand-lg bg-info navbar-dark'>
             <div className='container-fluid'>
                 <Link className='navbar-brand' to="/">
                     Food Website 
